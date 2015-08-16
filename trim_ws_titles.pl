@@ -2,7 +2,7 @@
 ## Generic script that can be used to trim whitespace from any single file that contains strings in a column format so that you can sequence through them in a 
 ## WHILE loop.
 ########################################################################################################################################
-#Just remember to rename the fasta when the program has completed in the folder.
+#Just remember to rename the fasta when the program has completed in the folder. Start code now.
 
 use strict;
 use warnings;
