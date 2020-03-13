@@ -4,7 +4,7 @@ use strict;
 
 
 
-#Set parameters for the run
+##Set parameters for the run
 
 # -pctScored  Percent of individuals that must be genotyped in order to retain the locus (1-100).
 # -maxSNP   The maximum location along the reads to score SNPs.  Use the plot in RunInfo/SNPLocations.pdf to choose this value.
